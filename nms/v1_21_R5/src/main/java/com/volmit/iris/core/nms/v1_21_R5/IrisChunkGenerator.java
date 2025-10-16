@@ -46,9 +46,9 @@ import net.minecraft.world.level.levelgen.structure.StructureStart;
 import net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager;
 import org.bukkit.Bukkit;
 import org.bukkit.World;
-import org.bukkit.craftbukkit.v1_21_R5.CraftWorld;
-import org.bukkit.craftbukkit.v1_21_R5.generator.CustomChunkGenerator;
-import org.bukkit.craftbukkit.v1_21_R5.generator.structure.CraftStructure;
+import org.bukkit.craftbukkit.v1_21_R6.CraftWorld;
+import org.bukkit.craftbukkit.v1_21_R6.generator.CustomChunkGenerator;
+import org.bukkit.craftbukkit.v1_21_R6.generator.structure.CraftStructure;
 import org.bukkit.event.world.AsyncStructureSpawnEvent;
 import org.spigotmc.SpigotWorldConfig;
 
